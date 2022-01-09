@@ -1,0 +1,14 @@
+= HackerRank (3 months practice)
+
+== Week 1
+
+=== First Task
+
+'''
+
+Plus Minus
+
+'''
+
+=== Second Task
+
