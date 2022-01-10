@@ -12,3 +12,11 @@ Plus Minus
 
 === Second Task
 
+'''
+
+Mini-Max Sum
+
+'''
+
+=== Third Task
+
