@@ -8,6 +8,10 @@
 
 Plus Minus
 
+Example:
+
+image::image-2022-01-11-09-41-21-637.png[]
+
 '''
 
 === Second Task
@@ -16,7 +20,24 @@ Plus Minus
 
 Mini-Max Sum
 
+Example:
+
+image::image-2022-01-11-09-41-57-291.png[]
+
 '''
 
 === Third Task
 
+'''
+
+Time Conversion
+
+Example:
+
+image::image-2022-01-11-09-40-16-165.png[]
+
+'''
+
+=== Fourth Task
+
+'''
