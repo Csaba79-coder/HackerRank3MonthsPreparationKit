@@ -90,3 +90,47 @@ image::image-2022-01-15-10-03-26-983.png[]
 
 '''
 
+Sparse Arrays
+
+Example and result:
+
+image::image-2022-01-15-10-39-37-771.png[]
+
+Constraints:
+
+image::image-2022-01-15-10-40-15-555.png[]
+
+
+'''
+
+=== Seventh Task
+
+'''
+
+Sparse Arrays
+
+'''
+
+=== Mock Test
+
+'''
+
+Find the Median
+
+image::image-2022-01-15-10-56-52-737.png[]
+
+'''
+
+Sparse Arrays
+== Week 2
+
+'''
+
+=== First Task
+
+'''
+
+
+
+'''
+
