@@ -51,3 +51,21 @@ image::image-2022-01-11-12-26-18-904.png[]
 Constraints:
 
 image::image-2022-01-11-12-26-48-552.png[]
+
+'''
+
+=== Fifth Task
+
+'''
+
+Camel Case 4
+
+Sample input and output:
+
+image::image-2022-01-12-12-06-55-741.png[]
+
+'''
+
+=== Sixth Task
+
+'''
