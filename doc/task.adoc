@@ -69,3 +69,24 @@ image::image-2022-01-12-12-06-55-741.png[]
 === Sixth Task
 
 '''
+
+Divisible Sum Pairs
+
+Example:
+
+image::image-2022-01-15-10-02-05-075.png[]
+
+Constraints:
+
+image::image-2022-01-15-10-02-34-812.png[]
+
+Explanation:
+
+image::image-2022-01-15-10-03-26-983.png[]
+
+'''
+
+=== Seventh Task
+
+'''
+
