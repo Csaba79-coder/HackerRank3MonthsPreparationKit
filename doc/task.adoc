@@ -119,9 +119,7 @@ Find the Median
 
 image::image-2022-01-15-10-56-52-737.png[]
 
-'''
 
-Sparse Arrays
 == Week 2
 
 '''
@@ -130,7 +128,16 @@ Sparse Arrays
 
 '''
 
+Lonely Integer
 
+image::image-2022-01-16-10-46-32-905.png[]
 
 '''
 
+=== Second Task
+
+'''
+
+Grading Students
+
+'''
