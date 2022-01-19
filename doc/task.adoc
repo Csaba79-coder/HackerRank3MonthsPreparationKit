@@ -140,4 +140,18 @@ image::image-2022-01-16-10-46-32-905.png[]
 
 Grading Students
 
+Example:
+
+image::image-2022-01-19-11-14-06-328.png[]
+
+Constraints:
+
+image::image-2022-01-19-11-14-44-418.png[]
+
 '''
+
+=== Third Task
+
+'''
+
+Flipping bits
