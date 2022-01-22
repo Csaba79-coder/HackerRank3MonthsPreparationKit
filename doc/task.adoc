@@ -197,6 +197,20 @@ Sample output:
 
 === Sixth Task
 
-Counting Sort 1.
+Counting Valleys
+
+Example:
+
+image::image-2022-01-22-11-18-12-398.png[]
+
+Explanation:
+
+image::image-2022-01-22-11-18-46-625.png[]
+
+'''
+
+=== Seventh Task
+
+Pangrams
 
 '''
