@@ -103,14 +103,6 @@ image::image-2022-01-15-10-40-15-555.png[]
 
 '''
 
-=== Seventh Task
-
-'''
-
-Sparse Arrays
-
-'''
-
 === Mock Test
 
 '''
@@ -212,5 +204,28 @@ image::image-2022-01-22-11-18-46-625.png[]
 === Seventh Task
 
 Pangrams
+
+Example:
+
+image::image-2022-01-22-11-31-35-182.png[]
+
+Constraints:
+
+image::image-2022-01-22-11-32-22-122.png[]
+
+'''
+
+
+=== Eighth Task
+
+Mars Exploration
+
+'''
+
+=== Mock Test
+
+'''
+
+
 
 '''
