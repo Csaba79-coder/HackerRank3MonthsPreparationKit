@@ -215,10 +215,17 @@ image::image-2022-01-22-11-32-22-122.png[]
 
 '''
 
-
 === Eighth Task
 
 Mars Exploration
+
+Example:
+
+image::image-2022-01-22-11-55-55-438.png[]
+
+Explanation:
+
+image::image-2022-01-22-11-56-31-471.png[]
 
 '''
 
