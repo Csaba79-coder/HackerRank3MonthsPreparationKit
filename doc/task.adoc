@@ -263,3 +263,21 @@ image::image-2022-01-23-13-24-09-472.png[]
 '''
 
 === Second Task
+
+Subarray Division 2
+
+Example:
+
+image::image-2022-01-23-15-16-16-276.png[]
+
+Constraints:
+
+image::image-2022-01-23-15-16-52-596.png[]
+
+'''
+
+=== Third Task
+
+XOR String 3
+
+'''
