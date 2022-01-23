@@ -111,7 +111,6 @@ Find the Median
 
 image::image-2022-01-15-10-56-52-737.png[]
 
-
 == Week 2
 
 '''
@@ -244,3 +243,23 @@ image::image-2022-01-22-12-32-16-285.png[]
 image::image-2022-01-22-12-32-40-606.png[]
 
 '''
+
+== Week 3
+
+'''
+
+=== First Task
+
+Permuting Two Arrays
+
+Example:
+
+image::image-2022-01-23-13-23-35-492.png[]
+
+Constraints / Sample input & output:
+
+image::image-2022-01-23-13-24-09-472.png[]
+
+'''
+
+=== Second Task
