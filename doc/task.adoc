@@ -280,4 +280,18 @@ image::image-2022-01-23-15-16-52-596.png[]
 
 XOR String 3
 
+Constraints:
+
+image::image-2022-01-24-12-17-45-998.png[]
+
+Sample input / output:
+
+image::image-2022-01-24-12-18-13-112.png[]
+
+'''
+
+=== Fourth Task
+
+Sales by Match
+
 '''
