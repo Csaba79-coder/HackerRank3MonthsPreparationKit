@@ -308,4 +308,12 @@ image::image-2022-01-24-14-47-35-140.png[]
 
 Migratory Birds
 
+image::image-2022-01-25-11-22-33-378.png[]
+
+'''
+
+=== Sixth Task
+
+Maximum Perimeter Triangle
+
 '''
