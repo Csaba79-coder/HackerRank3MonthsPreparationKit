@@ -25,7 +25,7 @@ public class MigratoryBirds {
         for(int key: arr){
             if(map.containsKey(key)){
                 int freq = map.get(key);
-                map.put(key, freq+1);
+                map.put(key, freq + 1);
             }else{
                 map.put(key, 1);
             }
