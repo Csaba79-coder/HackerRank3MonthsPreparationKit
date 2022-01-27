@@ -316,4 +316,12 @@ image::image-2022-01-25-11-22-33-378.png[]
 
 Maximum Perimeter Triangle
 
+Example:
+
+image::image-2022-01-27-15-33-38-939.png[]
+
+image::image-2022-01-27-15-34-52-432.png[]
+
 '''
+
+=== Seventh Task
