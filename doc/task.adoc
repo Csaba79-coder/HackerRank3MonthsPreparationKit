@@ -325,3 +325,13 @@ image::image-2022-01-27-15-34-52-432.png[]
 '''
 
 === Seventh Task
+
+Zig Zag Sequence
+
+image::image-2022-01-27-17-09-57-209.png[]
+
+'''
+
+=== Eighth Task
+
+Drawing Book
