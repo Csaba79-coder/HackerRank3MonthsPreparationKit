@@ -387,3 +387,13 @@ image::image-2022-01-31-11-52-33-070.png[]
 '''
 
 === Fourth Task
+
+Separate The Numbers
+
+image::image-2022-01-31-12-24-42-371.png[]
+
+image::image-2022-01-31-12-25-07-574.png[]
+
+'''
+
+=== Fifth Task
