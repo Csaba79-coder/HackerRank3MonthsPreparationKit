@@ -422,4 +422,12 @@ image::image-2022-01-31-15-50-18-207.png[]
 
 === Seventh Task
 
-Minimum Absolute Difference In Array
+Minimum Absolute Difference In An Array
+
+image::image-2022-01-31-16-04-12-747.png[]
+
+'''
+
+=== Eighth Task
+
+Ceasar Cipher
