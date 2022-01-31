@@ -379,3 +379,11 @@ image::image-2022-01-31-11-14-51-574.png[]
 '''
 
 === Third Task
+
+Number Line Jumps
+
+image::image-2022-01-31-11-52-33-070.png[]
+
+'''
+
+=== Fourth Task
