@@ -411,3 +411,15 @@ image::image-2022-01-31-14-37-04-713.png[]
 === Sixth Task
 
 Tower Breakers
+
+image::image-2022-01-31-15-48-34-218.png[]
+
+image::image-2022-01-31-15-49-27-356.png[]
+
+image::image-2022-01-31-15-50-18-207.png[]
+
+'''
+
+=== Seventh Task
+
+Minimum Absolute Difference In Array
