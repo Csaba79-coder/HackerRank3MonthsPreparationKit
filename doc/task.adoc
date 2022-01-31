@@ -443,3 +443,15 @@ image::image-2022-01-31-16-23-07-279.png[]
 '''
 
 Anagram
+
+image::image-2022-01-31-17-23-22-553.png[]
+
+image::image-2022-01-31-17-24-08-170.png[]
+
+== Week 5
+
+'''
+
+=== First Task
+
+'''
