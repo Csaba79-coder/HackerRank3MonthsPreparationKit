@@ -11,7 +11,7 @@ public class CaesarCipher {
 
         System.out.println(caesarCipher("middle-Outz", 2)); // expected output: okffng-Qwvb --> passing all the test!
         System.out.println(caesarCipher2("middle-Outz", 2)); // expected output: okffng-Qwvb --> pass this test, but failed some!
-        System.out.println(caesarCipher2("middle-Outz", 3)); // expected output: okffng-Qwvb --> effective output: plggoh-Rxwc
+        System.out.println(caesarCipher3("middle-Outz", 3)); // expected output: okffng-Qwvb --> effective output: plggoh-Rxwc
     }
 
     // this one passed all the tests!!!
