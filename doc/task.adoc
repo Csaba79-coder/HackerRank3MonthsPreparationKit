@@ -356,6 +356,8 @@ image::image-2022-01-27-19-23-51-784.png[]
 
 == Week 4
 
+'''
+
 === First Task
 
 '''
@@ -365,3 +367,15 @@ Picking Numbers
 image::image-2022-01-31-10-47-11-547.png[]
 
 '''
+
+=== Second Task
+
+Left Rotation
+
+image::image-2022-01-31-11-14-24-322.png[]
+
+image::image-2022-01-31-11-14-51-574.png[]
+
+'''
+
+=== Third Task
