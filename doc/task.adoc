@@ -359,3 +359,9 @@ image::image-2022-01-27-19-23-51-784.png[]
 === First Task
 
 '''
+
+Picking Numbers
+
+image::image-2022-01-31-10-47-11-547.png[]
+
+'''
