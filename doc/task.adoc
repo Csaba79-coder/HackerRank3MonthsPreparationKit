@@ -495,3 +495,11 @@ image::image-2022-02-07-14-14-43-659.png[]
 === Fourth Task
 
 Smart Number 2
+
+image::image-2022-02-07-14-17-17-159.png[]
+
+image::image-2022-02-07-14-17-48-479.png[]
+
+'''
+
+=== Fifth Task
