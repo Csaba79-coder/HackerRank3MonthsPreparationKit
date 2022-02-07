@@ -560,3 +560,16 @@ image::image-2022-02-07-16-59-10-419.png[]
 
 '''
 
+Fibonacci Modified
+
+image::image-2022-02-07-17-12-27-053.png[]
+
+image::image-2022-02-07-17-13-18-034.png[]
+
+== Week 6
+
+'''
+
+=== First Task
+
+'''
