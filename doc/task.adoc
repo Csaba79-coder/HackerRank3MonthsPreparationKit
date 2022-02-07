@@ -519,3 +519,17 @@ image::image-2022-02-07-14-28-21-450.png[]
 === Sixth Task
 
 '''
+
+The Full Counting Sort
+
+image::image-2022-02-07-14-58-50-929.png[]
+
+image::image-2022-02-07-14-59-34-892.png[]
+
+image::image-2022-02-07-15-00-17-086.png[]
+
+'''
+
+=== Seventh Task
+
+'''
