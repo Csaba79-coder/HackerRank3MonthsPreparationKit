@@ -548,3 +548,15 @@ image::image-2022-02-07-15-41-25-570.png[]
 
 '''
 
+Sansa and XOR
+
+image::image-2022-02-07-16-58-47-714.png[]
+
+image::image-2022-02-07-16-59-10-419.png[]
+
+'''
+
+=== Mock Test
+
+'''
+
